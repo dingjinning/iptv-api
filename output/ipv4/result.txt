@@ -1,33 +1,28 @@
 🕘️更新时间,#genre#
-2025-12-10 06:48:44,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+2025-12-10 18:23:45,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
-CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 💰央视付费频道,#genre#
-第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
+怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 怀旧剧场,http://171.125.90.120:6001/rtp/226.0.2.224:9704
-女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
+女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
-电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
+风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 世界地理,http://ygbh.site/php/bfgd.php?id=177
-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-世界地理,http://183.11.239.36:808/hls/11/index.m3u8
-世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
-世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -56,7 +51,6 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-法治天地,http://171.125.90.120:6001/rtp/226.0.2.83:8576
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 纪实人文,http://183.220.107.138:4022/rtp/239.10.0.192:5140
 纪实人文,http://144.255.32.94:8288/rtp/239.21.1.195:5002
@@ -65,7 +59,6 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 ☘️福建频道,#genre#
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
-福建公共,http://8.138.7.223/tv/fjtv.php?id=6
 
 ☘️海南频道,#genre#
 
@@ -77,11 +70,9 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
-奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
+兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
-可克达拉综合,rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 石河子教育,rtmp://124.88.144.73:1935/live/jiaoyu
@@ -177,7 +168,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://101.66.198.176:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
@@ -199,5 +189,3 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
 上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
-射雕英雄传,http://live.nctv.top/huya.php?id=23824164
-射雕英雄传,http://www.douzhicloud.site:35455/huya/23824164
