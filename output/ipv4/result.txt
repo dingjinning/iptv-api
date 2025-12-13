@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-13 18:21:53,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-14 06:21:15,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
@@ -19,6 +19,7 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -37,7 +38,14 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
+东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
+东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
+东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
+东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
+东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
@@ -48,6 +56,7 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 ☘️福建频道,#genre#
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+福建公共,http://8.138.7.223/tv/fjtv.php?id=6
 
 ☘️海南频道,#genre#
 
@@ -57,6 +66,7 @@ CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
+奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 可克达拉综合,rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
@@ -106,8 +116,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -116,6 +126,7 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+IPTV经典电影,http://144.255.32.94:8288/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
@@ -135,6 +146,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
+辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
@@ -154,7 +166,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-金鹰卡通,http://101.66.199.22:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
@@ -176,3 +187,4 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
 上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
+射雕英雄传,http://live.nctv.top/huya.php?id=23824164
