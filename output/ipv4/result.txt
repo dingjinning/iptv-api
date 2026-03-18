@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-18 06:31:17,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+2026-03-19 06:30:55,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
@@ -24,6 +24,7 @@ CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=2
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
@@ -34,15 +35,16 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 📡卫视频道,#genre#
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&line=2
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
-青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 青海卫视,http://107.150.60.122/live/qhws.m3u8
+青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
@@ -56,16 +58,16 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+上海外语,http://139.196.151.191:2051/rtp/239.45.1.127:5140
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
+东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-纪实人文,http://139.196.151.191/rtp/239.45.3.212:5140
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️福建频道,#genre#
@@ -85,7 +87,6 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
-可克达拉综合,rtmp://liveout.btzx.com.cn/62ds9e/4nxdih
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 石河子教育,rtmp://124.88.144.73:1935/live/jiaoyu
@@ -134,7 +135,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🏀体育频道,#genre#
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
