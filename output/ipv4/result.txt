@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-04-13 19:30:20,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
+2026-04-14 06:43:58,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
-CCTV-1,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV-1,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
 CCTV-1,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-2,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV2
@@ -24,13 +24,13 @@ CCTV-5+,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV5p
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-6,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV6
 CCTV-6,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV6
-CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 CCTV-7,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV7
 CCTV-7,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV7
-CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-8,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV8
 CCTV-8,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV8
 CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
@@ -40,8 +40,8 @@ CCTV-10,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV10
 CCTV-10,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV10
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-CCTV-11,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV11
 CCTV-11,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV11
+CCTV-11,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV11
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV12
 CCTV-12,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV12
@@ -50,8 +50,8 @@ CCTV-13,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV13
 CCTV-13,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV13
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-14,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV14
-CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV-15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-15,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
 CCTV-15,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV15
@@ -64,9 +64,6 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 
 💰央视付费频道,#genre#
 文化精品,http://107.150.60.122/live/ysjp.m3u8
-第一剧场,http://171.116.254.184:9003/hls/60/index.m3u8
-风云剧场,http://171.116.254.184:9003/hls/61/index.m3u8
-怀旧剧场,http://171.116.254.184:9003/hls/58/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
@@ -92,12 +89,9 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 纪实人文,http://183.220.107.138:4022/rtp/239.10.0.192:5140
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-都市剧场,http://1.197.204.20:85/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️福建频道,#genre#
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
@@ -124,6 +118,8 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 石河子新闻综合,rtmp://124.88.144.73:1935/live/xwzh
 
 ☘️吉林频道,#genre#
+吉林都市,http://vapi.91kds.cc/live2/jltv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=jlds
+吉林生活,http://vapi.91kds.cc/live2/jltv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=jlsh
 延边-2,http://stream8.jlntv.cn/ljtv/playlist.m3u8
 延边-2,http://stream5.jlntv.cn/wq/playlist.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -149,9 +145,15 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715
 
 🎬电影频道,#genre#
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎥咪咕直播,#genre#
@@ -175,3 +177,4 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏛经典剧场,#genre#
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
+上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
