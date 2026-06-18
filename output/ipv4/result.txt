@@ -1,12 +1,10 @@
 🕘️更新时间,#genre#
-2026-06-18 20:52:44,http://173.208.212.130:8181/720p/cctv1.m3u8
+2026-06-19 07:36:13,http://173.208.212.130:8181/1080p/cctv3.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
 CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-9,http://223.75.149.129:9906/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://198.204.228.26/live/cctv12hd.m3u8
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
@@ -14,18 +12,14 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=cf99265df4dc15e266326666
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 💰央视付费频道,#genre#
-央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
-怀旧剧场,http://107.150.60.122/live/hjjc.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
-湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=e9d82e727780e80a83d0225fa0fa8dfe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
+湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
-湖北卫视,https://live.264788.xyz/channel/hubeiweishi?streamid=6b2a1b3ca23668e002fb2a6ff0f3a928&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
@@ -52,7 +46,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 ☘️上海频道,#genre#
 上海外语,http://139.196.151.191:2051/rtp/239.45.1.127:5140
-东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 纪实人文,http://183.220.107.138:4022/rtp/239.10.0.192:5140
@@ -80,6 +74,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 石河子新闻综合,rtmp://124.88.144.73:1935/live/xwzh
 
 ☘️吉林频道,#genre#
+吉林都市,http://vapi.91kds.cc/live2/jltv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=jlds
+吉林生活,http://vapi.91kds.cc/live2/jltv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=jlsh
 延边-2,http://stream8.jlntv.cn/ljtv/playlist.m3u8
 延边-2,http://stream5.jlntv.cn/wq/playlist.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -110,8 +106,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -123,9 +119,10 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🏀体育频道,#genre#
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 
 🪁动画频道,#genre#
 新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=3
@@ -141,4 +138,3 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏛经典剧场,#genre#
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
-上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
