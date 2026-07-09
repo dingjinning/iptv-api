@@ -1,20 +1,15 @@
 🕘️更新时间,#genre#
-2026-07-09 07:04:15,http://123.163.114.168:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-07-10 07:10:21,http://101.66.198.163:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://123.163.114.168:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://182.37.41.46:8154/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV-2,http://182.37.41.46:8154/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV-3,http://101.66.198.163:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5+,http://182.37.41.46:8154/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-7,http://182.37.41.46:8154/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV-7,http://125.42.151.116:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://123.163.114.168:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://123.163.114.168:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://182.37.41.46:8154/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
-CCTV-14,http://123.163.114.168:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 💰央视付费频道,#genre#
@@ -22,21 +17,18 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://123.163.114.168:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 安徽卫视,http://101.66.198.8:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://101.66.199.247:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
-东南卫视,http://125.42.151.116:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://182.37.41.46:8154/tsfile/live/0120_1.m3u8?key=txiptv
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
+江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
@@ -57,6 +49,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
+全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 纪实人文,http://183.220.107.138:4022/rtp/239.10.0.192:5140
 纪实人文,http://222.212.84.190:54123/rtp/239.93.1.154:5140
@@ -75,7 +68,6 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
-奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
@@ -133,7 +125,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.42.151.116:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 爱电竞,http://222.212.84.190:54123/rtp/239.93.42.19:5140
